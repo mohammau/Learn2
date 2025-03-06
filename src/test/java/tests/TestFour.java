@@ -23,7 +23,9 @@ public class TestFour extends Base {
 	@Test
 	public void Fourt() throws IOException, InterruptedException{
 		
-	  System.out.println("Test Four printed");	
+	  System.out.println("Test Four printed");
+	  System.out.println("Changes made from github repo in order to pull to local");	
+
 	  
 	 driver =  initializeDriver();
 	 
